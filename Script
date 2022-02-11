@@ -4,7 +4,7 @@ apt-get update
 This will proceed to update all repos for apps and dependencies.
 sudo apt-get install -y build-essential kernel-package libncurses5-dev bzip2
 
-Now we need some toolchains i use my Script file check it on my git 
+Now we need some toolchains i use my Script file where i mentiond toolchain repo check it on my git 
 
 To install OpenSSL development package on Ubuntu or their derivatives:
 sudo apt-get install libssl-dev
